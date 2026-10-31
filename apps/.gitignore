@@ -1,0 +1,14 @@
+# Spark dependencies and generated data
+spark-ivy/
+warehouse/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and runtime files
+.env
+logs/
+checkpoints/
